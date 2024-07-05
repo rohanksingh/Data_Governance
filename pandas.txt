@@ -1,0 +1,7 @@
+pandas
+
+ydata-profiling
+
+great_expectations
+
+requests
